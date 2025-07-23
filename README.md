@@ -1,4 +1,3 @@
-
 LAb_4
 <img width="752" height="751" alt="image" src="https://github.com/user-attachments/assets/67778899-45d5-4311-8c23-24696d8ab348" />
 Lab_exam
